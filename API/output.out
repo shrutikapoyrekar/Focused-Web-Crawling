@@ -1,0 +1,295 @@
+C:\IUB MS Program\IUB Sem II\B-552 Probabilistic Approach to AI\Project\Coding\API>python fCrawler.py www.soic.indiana.edu/computer-science/
+Calling Main
+Back Links of www.soic.indiana.edu/computer-science/
+[u'www.cs.indiana.edu/%7Econnelly/', u'www.cs.indiana.edu/%7Eleake/cbr/code/']
+########################################################################
+Computing for Layer 0
+########################################################################
+
+Computing for node www.soic.indiana.edu/computer-science/ (root) backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/%7Econnelly/
+[u'www.cs.indiana.edu/inwic/2010/index.html', u'www.indiana.edu/%7Efoodsci/sawyer.shtml']
+
+Back Links of www.cs.indiana.edu/%7Eleake/cbr/code/
+[u'www.cs.indiana.edu/%7Eleake/projects/swale/']
+Number of Back links for root: 2
+
+
+########################################################################
+Computing for Layer 1
+########################################################################
+
+Computing for node  www.cs.indiana.edu/%7Econnelly/  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/inwic/2010/index.html
+[u'www.cs.indiana.edu/inwic/2010/participation.html', u'www.cs.indiana.edu/inwic/2010/program.html']
+
+Back Links of www.indiana.edu/%7Efoodsci/sawyer.shtml
+[u'www.indiana.edu/%7Efoodsci/about.shtml', u'www.indiana.edu/%7Efoodsci/faculty.shtml']
+
+Number of Back links for www.cs.indiana.edu/%7Econnelly/ 2
+
+Computing for node  www.cs.indiana.edu/%7Eleake/cbr/code/  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/%7Eleake/projects/swale/
+[u'www.cs.indiana.edu/%7Eleake/cbr/code/index.html', u'www.cs.indiana.edu/%7Eleake/projects/swale']
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/cbr/code/ 1
+
+
+########################################################################
+Computing for Layer 2
+########################################################################
+
+Computing for node  www.cs.indiana.edu/inwic/2010/index.html  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/inwic/2010/participation.html
+[u'www.cs.indiana.edu/inwic/2010/program.html', u'www.cs.indiana.edu/inwic/2010/']
+
+Back Links of www.cs.indiana.edu/inwic/2010/program.html
+[u'www.cs.indiana.edu/inwic/2010/', u'www.cs.indiana.edu/inwic/2010/fun.html']
+
+Number of Back links for www.cs.indiana.edu/inwic/2010/index.html 2
+
+Computing for node  www.indiana.edu/%7Efoodsci/sawyer.shtml  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.indiana.edu/%7Efoodsci/about.shtml
+[u'www.indiana.edu/%7Efoodsci/faculty.shtml', u'www.indiana.edu/%7Efoodsci/courses.shtml']
+
+Back Links of www.indiana.edu/%7Efoodsci/faculty.shtml
+[u'www.indiana.edu/%7Efoodsci/courses.shtml', u'www.indiana.edu/%7Efoodsci/index.shtml']
+
+Number of Back links for www.indiana.edu/%7Efoodsci/sawyer.shtml 2
+
+Computing for node  www.cs.indiana.edu/%7Eleake/projects/swale/  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/%7Eleake/cbr/code/index.html
+[u'www.cs.indiana.edu/%7Eleake/index.html', u'www.cs.indiana.edu/%7Eleake/']
+
+Back Links of www.cs.indiana.edu/%7Eleake/projects/swale
+[u'www.cs.indiana.edu/%7Eleake/index.html', u'www.cs.indiana.edu/%7Eleake/']
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/projects/swale/ 2
+
+
+########################################################################
+Computing for Layer 3
+########################################################################
+
+Computing for node  www.cs.indiana.edu/inwic/2010/participation.html  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/inwic/2010/program.html
+[u'www.cs.indiana.edu/inwic/2010/', u'www.cs.indiana.edu/inwic/2010/fun.html']
+
+Back Links of www.cs.indiana.edu/inwic/2010/
+[u'www.cs.indiana.edu/inwic/index.html', u'www.cs.indiana.edu/inwic/']
+
+Number of Back links for www.cs.indiana.edu/inwic/2010/participation.html 2
+
+Computing for node  www.cs.indiana.edu/inwic/2010/program.html  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/inwic/2010/
+[u'www.cs.indiana.edu/inwic/index.html', u'www.cs.indiana.edu/inwic/']
+
+Back Links of www.cs.indiana.edu/inwic/2010/fun.html
+[]
+
+Number of Back links for www.cs.indiana.edu/inwic/2010/program.html 2
+
+Computing for node  www.cs.indiana.edu/%7Eleake/cbr/code/index.html  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/%7Eleake/index.html
+[]
+
+Back Links of www.cs.indiana.edu/%7Eleake/
+[u'www.cs.indiana.edu/%7Esbogaert/CBR/', u'www.indiana.edu/%7Ecogs/people/profile.php?u=leake']
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/cbr/code/index.html 2
+
+Computing for node  www.cs.indiana.edu/%7Eleake/projects/swale  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/%7Eleake/index.html
+[]
+
+Back Links of www.cs.indiana.edu/%7Eleake/
+[u'www.cs.indiana.edu/%7Esbogaert/CBR/', u'www.indiana.edu/%7Ecogs/people/profile.php?u=leake']
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/projects/swale 2
+
+Computing for node  www.indiana.edu/%7Efoodsci/about.shtml  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.indiana.edu/%7Efoodsci/faculty.shtml
+[u'www.indiana.edu/%7Efoodsci/courses.shtml', u'www.indiana.edu/%7Efoodsci/index.shtml']
+
+Back Links of www.indiana.edu/%7Efoodsci/courses.shtml
+[u'www.indiana.edu/%7Efoodsci/index.shtml', u'www.indiana.edu/%7Efoodsci/resources.shtml']
+
+Number of Back links for www.indiana.edu/%7Efoodsci/about.shtml 2
+
+Computing for node  www.indiana.edu/%7Efoodsci/faculty.shtml  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.indiana.edu/%7Efoodsci/courses.shtml
+[u'www.indiana.edu/%7Efoodsci/index.shtml', u'www.indiana.edu/%7Efoodsci/resources.shtml']
+
+Back Links of www.indiana.edu/%7Efoodsci/index.shtml
+[u'www.indiana.edu/%7Efoodsci/resources.shtml', u'www.indiana.edu/%7Efoodsci/']
+
+Number of Back links for www.indiana.edu/%7Efoodsci/faculty.shtml 2
+
+
+########################################################################
+Computing for Layer 4
+########################################################################
+
+Computing for node  www.cs.indiana.edu/%7Eleake/index.html  backlinks
+------------------------------------------------------------------------------
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/index.html 0
+
+Computing for node  www.cs.indiana.edu/%7Eleake/  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/%7Esbogaert/CBR/
+[]
+
+Back Links of www.indiana.edu/%7Ecogs/people/profile.php?u=leake
+[u'www.indiana.edu/%7Ecogs/people/faculty/?sort=department', u'www.indiana.edu/%7Ecogs/people/faculty/?sort=firstname']
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/ 2
+
+Computing for node  www.cs.indiana.edu/%7Eleake/index.html  backlinks
+------------------------------------------------------------------------------
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/index.html 0
+
+Computing for node  www.cs.indiana.edu/%7Eleake/  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/%7Esbogaert/CBR/
+[]
+
+Back Links of www.indiana.edu/%7Ecogs/people/profile.php?u=leake
+[u'www.indiana.edu/%7Ecogs/people/faculty/?sort=department', u'www.indiana.edu/%7Ecogs/people/faculty/?sort=firstname']
+
+Number of Back links for www.cs.indiana.edu/%7Eleake/ 2
+
+Computing for node  www.cs.indiana.edu/inwic/2010/  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/inwic/index.html
+[u'www.cs.indiana.edu/cgi-pub/inwic/talk.php', u'www.cs.indiana.edu/cgi-pub/inwic/register/index.php?update_code=bronze']
+
+Back Links of www.cs.indiana.edu/inwic/
+[u'www.cs.indiana.edu/cgi-pub/wic/outreach/index.php', u'www.cs.indiana.edu/inwic']
+
+Number of Back links for www.cs.indiana.edu/inwic/2010/ 2
+
+Computing for node  www.cs.indiana.edu/inwic/2010/fun.html  backlinks
+------------------------------------------------------------------------------
+
+Number of Back links for www.cs.indiana.edu/inwic/2010/fun.html 0
+
+Computing for node  www.cs.indiana.edu/inwic/2010/program.html  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/inwic/2010/
+[u'www.cs.indiana.edu/inwic/2010', u'www.cs.indiana.edu/inwic/index2.html']
+
+Back Links of www.cs.indiana.edu/inwic/2010/fun.html
+[]
+
+Number of Back links for www.cs.indiana.edu/inwic/2010/program.html 2
+
+Computing for node  www.cs.indiana.edu/inwic/2010/  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.cs.indiana.edu/inwic/index.html
+[u'www.cs.indiana.edu/cgi-pub/inwic/talk.php', u'www.cs.indiana.edu/cgi-pub/inwic/register/index.php?update_code=bronze']
+
+Back Links of www.cs.indiana.edu/inwic/
+[u'www.cs.indiana.edu/cgi-pub/wic/outreach/index.php', u'www.cs.indiana.edu/inwic']
+
+Number of Back links for www.cs.indiana.edu/inwic/2010/ 2
+
+Computing for node  www.indiana.edu/%7Efoodsci/faculty.shtml  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.indiana.edu/%7Efoodsci/courses.shtml
+[u'www.indiana.edu/%7Efoodsci/resources.shtml', u'www.indiana.edu/%7Efoodsci/']
+
+Back Links of www.indiana.edu/%7Efoodsci/index.shtml
+[u'www.indiana.edu/%7Efoodsci/resources.shtml', u'www.indiana.edu/%7Efoodsci/']
+
+Number of Back links for www.indiana.edu/%7Efoodsci/faculty.shtml 2
+
+Computing for node  www.indiana.edu/%7Efoodsci/courses.shtml  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.indiana.edu/%7Efoodsci/index.shtml
+[u'www.indiana.edu/%7Efoodsci/resources.shtml', u'www.indiana.edu/%7Efoodsci/']
+
+Back Links of www.indiana.edu/%7Efoodsci/resources.shtml
+[u'www.indiana.edu/%7Efoodsci/']
+
+Number of Back links for www.indiana.edu/%7Efoodsci/courses.shtml 2
+
+Computing for node  www.indiana.edu/%7Efoodsci/courses.shtml  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.indiana.edu/%7Efoodsci/index.shtml
+[u'www.indiana.edu/%7Efoodsci/']
+
+Back Links of www.indiana.edu/%7Efoodsci/resources.shtml
+[u'www.indiana.edu/%7Efoodsci/']
+
+Number of Back links for www.indiana.edu/%7Efoodsci/courses.shtml 2
+
+Computing for node  www.indiana.edu/%7Efoodsci/index.shtml  backlinks
+------------------------------------------------------------------------------
+
+Back Links of www.indiana.edu/%7Efoodsci/resources.shtml
+[u'www.indiana.edu/%7Efoodsci/']
+
+Back Links of www.indiana.edu/%7Efoodsci/
+[]
+
+Number of Back links for www.indiana.edu/%7Efoodsci/index.shtml 2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+www.indiana.edu/%7Efoodsci/courses.shtml [<__main__.page instance at 0x0000000002634948>, <__main__.page instance at 0x0000000002634F08>]
+www.cs.indiana.edu/%7Econnelly/ [<__main__.page instance at 0x000000000261D3C8>, <__main__.page instance at 0x0000000002625088>]
+www.cs.indiana.edu/inwic/2010/index.html [<__main__.page instance at 0x0000000002625148>, <__main__.page instance at 0x0000000002625448>]
+www.cs.indiana.edu/%7Eleake/cbr/code/ [<__main__.page instance at 0x0000000002625708>]
+www.cs.indiana.edu/%7Eleake/cbr/code/index.html [<__main__.page instance at 0x000000000261DB08>, <__main__.page instance at 0x000000000261D408>]
+www.cs.indiana.edu/%7Eleake/projects/swale/ [<__main__.page instance at 0x0000000002628088>, <__main__.page instance at 0x0000000002625A88>]
+www.indiana.edu/%7Efoodsci/sawyer.shtml [<__main__.page instance at 0x0000000002625C88>, <__main__.page instance at 0x00000000026282C8>]
+www.indiana.edu/%7Efoodsci/about.shtml [<__main__.page instance at 0x0000000002628148>, <__main__.page instance at 0x0000000002628AC8>]
+www.cs.indiana.edu/%7Eleake/projects/swale [<__main__.page instance at 0x0000000002628C88>, <__main__.page instance at 0x00000000026287C8>]
+www.soic.indiana.edu/computer-science/ [<__main__.page instance at 0x000000000261DD48>, <__main__.page instance at 0x000000000261DE08>]
+www.cs.indiana.edu/inwic/2010/fun.html []
+www.cs.indiana.edu/inwic/2010/program.html [<__main__.page instance at 0x000000000262FB08>, <__main__.page instance at 0x000000000262F788>]
+www.indiana.edu/%7Efoodsci/index.shtml [<__main__.page instance at 0x0000000002636188>, <__main__.page instance at 0x0000000002636248>]
+www.cs.indiana.edu/inwic/2010/ [<__main__.page instance at 0x000000000262FA48>, <__main__.page instance at 0x000000000262FDC8>]
+www.cs.indiana.edu/inwic/2010/participation.html [<__main__.page instance at 0x0000000002625AC8>, <__main__.page instance at 0x0000000002625288>]
+www.cs.indiana.edu/%7Eleake/index.html []
+www.cs.indiana.edu/%7Eleake/ [<__main__.page instance at 0x000000000262E648>, <__main__.page instance at 0x000000000262E9C8>]
+www.indiana.edu/%7Efoodsci/faculty.shtml [<__main__.page instance at 0x0000000002634148>, <__main__.page instance at 0x00000000026340C8>]
+Set([u'www.cs.indiana.edu/%7Esbogaert/CBR/', u'www.cs.indiana.edu/%7Econnelly/', u'www.indiana.edu/%7Efoodsci/about.shtml', u'www.cs.indiana.edu/%7Eleake/cbr/code/', u'www.cs.indiana.ed
+u/%7Eleake/projects/swale', u'www.indiana.edu/%7Ecogs/people/profile.php?u=leake', u'www.cs.indiana.edu/%7Eleake/index.html', u'www.cs.indiana.edu/inwic/', u'www.cs.indiana.edu/inwic/20
+10/index.html', u'www.cs.indiana.edu/%7Eleake/cbr/code/index.html', u'www.cs.indiana.edu/%7Eleake/projects/swale/', u'www.indiana.edu/%7Efoodsci/sawyer.shtml', 'www.soic.indiana.edu/com
+puter-science/', u'www.cs.indiana.edu/inwic/index.html', u'www.cs.indiana.edu/inwic/2010/program.html', u'www.indiana.edu/%7Efoodsci/index.shtml', u'www.indiana.edu/%7Efoodsci/resources
+.shtml', u'www.cs.indiana.edu/inwic/2010/participation.html', u'www.indiana.edu/%7Efoodsci/', u'www.cs.indiana.edu/%7Eleake/', u'www.cs.indiana.edu/inwic/2010/', u'www.indiana.edu/%7Efo
+odsci/courses.shtml', u'www.indiana.edu/%7Efoodsci/faculty.shtml', 'www.cs.indiana.edu/', u'www.cs.indiana.edu/inwic/2010/fun.html'])
+Call to Main ended
